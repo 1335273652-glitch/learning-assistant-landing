@@ -6,7 +6,7 @@
 
 ## 在线体验
 
-[打开学伴落地页](https://1335273652-glitch.github.io/learning-assistant-landing/)
+[打开学伴](https://1335273652-glitch.github.io/learning-assistant-landing/)
 
 ## 学伴 Skill
 
@@ -28,10 +28,3 @@ Skill 可将提供的学习材料整理为：
 直接用浏览器打开 `index.html` 即可查看页面。
 
 修改页面后，将更新提交到本仓库的 `main` 分支，GitHub Pages 会自动部署。
-
-## 文件结构
-
-```text
-index.html   落地页，包含页面内容与样式
-README.md    项目介绍与相关链接
-```
